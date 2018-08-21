@@ -1,4 +1,4 @@
-FROM docker:latest
+FROM docker:stable
 
 LABEL maintainer="Nam Dau <namdq.nu@gmail.com>"
 
